@@ -1,0 +1,6 @@
+rencana belajar saya di dunia progammer
+- Javascript sampai expert
+ * Belajar beberapa framework js
+- php
+- sql
+- web development (html,css,js,php)
