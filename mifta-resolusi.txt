@@ -1,6 +1,10 @@
 mifta resolusi
 - Saya ingin konsisten belajar coding
  * walaupun masih belum konsisten
+ = js framework
+  . react js
+ = php
+  . laravel
 - Saya ingin gaji 2 digit
 - Saya ingin membeli rumah
 - Saya ingin menjadi pengusaha
